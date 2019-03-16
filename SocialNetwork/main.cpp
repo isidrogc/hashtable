@@ -7,7 +7,7 @@
 //
 
 #include <iostream>
-#include "SocialNetwork.hpp"
+#include "SocialNetwork.h"
 
 
 int main(int argc, const char * argv[]) {
